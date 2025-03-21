@@ -69,7 +69,7 @@ Follow these steps to set up the script:
 ## ✨ Highlights
 
 ### Professional Branding
-This script is powered by **Wick Studio**, featuring:
+This script is powered by **te.bailo**, featuring:
 - Polished console messages.
 - Dynamic and visually appealing banners.
 
@@ -89,7 +89,7 @@ The `start.bat` script simplifies everything:
 
 1. **Use Responsibly**: This script is designed for personal use only. Automating actions on Instagram may violate their terms of service, so proceed at your own risk.
 2. **Rate Limits**: Avoid using the script excessively to prevent account restrictions or bans.
-3. **Support**: For any issues, visit our community at [discord.gg/wicks](https://discord.gg/wicks).
+3. **Support**: For any issues, visit our community at [discord.gg/AdamKryach](https://discord.gg/AdamKryach).
 
 ---
 
