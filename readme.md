@@ -1,8 +1,7 @@
 # Instagram Unfollow Script
 
-![Wick Studio Banner](https://media.wickdev.me/dgyaMlYuzi.jpg)
 
-Welcome to the **Instagram Unfollow Script**, an efficient tool developed by **Wick Studio** to help you unfollow accounts on Instagram effortlessly. This script leverages **Puppeteer** for browser automation and includes advanced error handling, dynamic delays, and user-friendly interactions.
+Welcome to the **Instagram Unfollow Script**, an efficient tool developed by **te.bailo** to help you unfollow accounts on Instagram effortlessly. This script leverages **Puppeteer** for browser automation and includes advanced error handling, dynamic delays, and user-friendly interactions.
 
 ---
 
@@ -33,7 +32,7 @@ Follow these steps to set up the script:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/wickstudio/instagram-unfollow-script.git
+   git clone https://github.com/AdamKryach/instagram-unfollow-script.git
    cd instagram-unfollow-script
    ```
 
@@ -99,9 +98,9 @@ The `start.bat` script simplifies everything:
 **Main Console Interface:**
 ```
 =======================================================
-      WICK STUDIO - Instagram Unfollow Script
+      Black Cloud - Instagram Unfollow Script
 =======================================================
-      Website: discord.gg/wicks | github.com/wickstudio
+                 github.com/AdamKryach
 =======================================================
 
 Checking for Node.js installation...
@@ -149,8 +148,8 @@ We welcome contributions to enhance this script! To contribute:
 ## 🌟 Acknowledgments
 
 This project is brought to you by **Wick Studio**. Join our community for more tools, scripts, and support:
-- **Discord**: [discord.gg/wicks](https://discord.gg/wicks)
-- **GitHub**: [github.com/wickstudio](https://github.com/wickstudio)
+- **Discord**: [discord.gg/AdamKryach](https://discord.gg/AdamKryach)
+- **GitHub**: [github.com/AdamKryach](https://github.com/AdamKryach)
 
 ---
 
@@ -163,10 +162,10 @@ This script is open-source and available under the [MIT License](LICENSE).
 ## 📞 Support
 
 If you encounter any issues or have suggestions, feel free to:
-- Open an issue on [GitHub](https://github.com/wickstudio/instagram-unfollow-script/issues).
-- Join our **Discord** at [discord.gg/wicks](https://discord.gg/wicks).
+- Open an issue on [GitHub](https://github.com/AdamKryach/instagram-unfollow-script/issues).
+- Join our **Discord** at [discord.gg/AdamKryach](https://discord.gg/AdamKryach).
 
 ---
 
-Crafted with ❤️ by **Wick Studio**  
+Crafted with ❤️ by **Black Cloud**  
 Your go-to source for advanced tools and solutions!  
